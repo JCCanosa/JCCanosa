@@ -47,13 +47,13 @@
        <a href="https://tributorayden.netlify.app/">
        <img src="/tributoRayden.png">
        </a>
-       <p>Blog Café</p>
+       <p>Página Tributo</p>
       </td>
       <td>
        <a href="https://festivalmusicaejudemy.netlify.app/">
        <img src="/festivalMusica.png">
        </a>
-       <p>Blog Café</p>
+       <p>Festival de Música</p>
     </td>
   </tr>
 </table>
